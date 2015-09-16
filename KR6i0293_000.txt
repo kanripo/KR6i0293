@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說勝義空經
+#+DATE: 2015-08-30 20:15:23.506320
+#+PROPERTY: JUAN 0
