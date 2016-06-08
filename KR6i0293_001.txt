@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:23.317651
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:14
 #+TITLE: 佛說勝義空經
 #+PROPERTY: CBETA_ID T15n0655
 #+PROPERTY: ID KR6i0293
